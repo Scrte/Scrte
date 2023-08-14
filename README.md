@@ -1,4 +1,4 @@
-# Hellooo, my name is Secret
+# Hellooo, my name is Secret <img align="right" src="https://thumbs.gfycat.com/ThisRashGermanshorthairedpointer-size_restricted.gif" width="80" height="80">
 ## Learning Developer - Working on a few things on my own and some with friends too
 
 I've been teaching myself how to program since early 2018. I started out with Lua and C# and have been learning more constantly. I have worked in game development both with a team and on my own; unfortunately the team project did not get anywhere but I do still continue to work on my own projects. My largest focus is learning and creating; I love having new ideas and having the possibility of some of those ideas being able to come to life.
@@ -10,11 +10,10 @@ I've been teaching myself how to program since early 2018. I started out with Lu
 - I am a mess entirely and have worked and will be working on projects that are scattered all over the place
 - I have been learning and working on Android Application Development
 - I'm so sillyyy
-- I'll probably finish this up when I am less tired
   
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Stay Connected:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/scrt3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="scrt3" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@scrt3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="scrt3" height="30" width="40" /></a> <a href="https://www.twitch.tv/soocret" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="soocret" height="30" width="40" /></a> <a href="https://www.discord.gg/x4KTVY2hF4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
