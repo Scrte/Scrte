@@ -4,7 +4,8 @@
 I've been teaching myself how to program since early 2018. I started out with Lua and C# and have been learning more constantly. I have worked in game development both with a team and on my own; unfortunately the team project did not get anywhere but I do still continue to work on my own projects. My largest focus is learning and creating; I love having new ideas and having the possibility of some of those ideas being able to come to life.
 - 🪐  I do all of my work living on Jupiter
 - ✉️  You can contact me at [y4fmjhf3g@mozmail.com](mailto:y4fmjhf3g@mozmail.com)
-- 🧠  Still learning ways to optimize my code better 😞
+- 🧠  Still learning ways to optimize my code better 😞
+- 💧  Dabbling in lots of different puddles of linux development :3 
 ### Fun Facts:
 - I am a mess entirely and have worked and will be working on projects that are scattered all over the place
 - Currently working **locally** (for now) on a Desktop Environment and GUI of my own
